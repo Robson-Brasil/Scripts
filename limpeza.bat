@@ -37,8 +37,8 @@ PAUSE
 @echo. 
 @echo.
 
-IF EXIST c:\windows\prefetch\ del /f /s /q c:\windows\prefetch\
-DEL /f /s /q prefetch\
+IF EXIST C:\Windows\Prefetch\ del /f /s /q C:\Windows\Prefetch\
+DEL /f /s /q Prefetch\
 @echo.
 @echo --------------------------------------------------------------------------------------------------------------------------------------
 @echo 			         Arquivos temporarios da pasta prefetch apagados com sucesso!
